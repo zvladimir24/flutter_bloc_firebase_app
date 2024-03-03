@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930980436434",
+    "project_id": "instalikeapp-3d3d3",
+    "storage_bucket": "instalikeapp-3d3d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930980436434:android:f188e792860e736dec100b",
+        "android_client_info": {
+          "package_name": "com.example.insta_like_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKNWhFwo4YhAJTt_D4S5X0EN7XvPSSQcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
